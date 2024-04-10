@@ -1,0 +1,3 @@
+使用python删脚本除bib文件中没有引用的文献
+
+也可以使用其他工具，比如jabref，bibtool
