@@ -1,3 +1,7 @@
+bibclean.py
 使用python删脚本除bib文件中没有引用的文献
 
 也可以使用其他工具，比如jabref，bibtool
+
+pictureClean.py
+使用python删脚本除图片文件夹中没有引用的图片
